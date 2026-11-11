@@ -1,0 +1,7 @@
+error: inspection rejected
+B-1 City
+D-1 Hub
+H-1 Pro
+S-1 ModelX
+S-1 ModelX
+12.5

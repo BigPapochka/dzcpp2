@@ -1,0 +1,9 @@
+add scooter S-1 ModelX 2.5 8
+add bike B-1 City 4
+add scooter S-2 brokenX 1.0 9
+add helmet H-1 Pro
+add dock D-1 Hub 10.0
+list
+novice
+energy
+quit

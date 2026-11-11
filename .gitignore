@@ -1,0 +1,15 @@
+*.exe
+*.o
+*.obj
+*.out
+*.dll
+*.pdb
+*.ilk
+*.zip
+.vscode/
+.idea/
+.vs/
+build/
+cmake-build-*/
+tests/
+REVIEW.md
